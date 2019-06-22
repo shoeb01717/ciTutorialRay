@@ -3,4 +3,4 @@ language: swift
 os: osx
 xcode_project: Numero.xcodeproj
 xcode_scheme: Numero
-xcode_destination: platform=iOS Simulator,OS=11.3,name=iPhone X
+xcode_destination: platform=iOS Simulator,OS=12.2,name=iPhone X
